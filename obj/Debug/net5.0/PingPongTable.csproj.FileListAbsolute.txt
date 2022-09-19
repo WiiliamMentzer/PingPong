@@ -1,0 +1,16 @@
+C:\Users\wiibr\Desktop\ping-pong\obj\Debug\net5.0\PingPongTable.csproj.AssemblyReference.cache
+C:\Users\wiibr\Desktop\ping-pong\obj\Debug\net5.0\PingPongTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiibr\Desktop\ping-pong\obj\Debug\net5.0\PingPongTable.AssemblyInfoInputs.cache
+C:\Users\wiibr\Desktop\ping-pong\obj\Debug\net5.0\PingPongTable.AssemblyInfo.cs
+C:\Users\wiibr\Desktop\ping-pong\obj\Debug\net5.0\PingPongTable.csproj.CoreCompileInputs.cache
+C:\Users\wiibr\Desktop\ping-pong\bin\Debug\net5.0\PingPongTable.exe
+C:\Users\wiibr\Desktop\ping-pong\bin\Debug\net5.0\PingPongTable.deps.json
+C:\Users\wiibr\Desktop\ping-pong\bin\Debug\net5.0\PingPongTable.runtimeconfig.json
+C:\Users\wiibr\Desktop\ping-pong\bin\Debug\net5.0\PingPongTable.runtimeconfig.dev.json
+C:\Users\wiibr\Desktop\ping-pong\bin\Debug\net5.0\PingPongTable.dll
+C:\Users\wiibr\Desktop\ping-pong\bin\Debug\net5.0\ref\PingPongTable.dll
+C:\Users\wiibr\Desktop\ping-pong\bin\Debug\net5.0\PingPongTable.pdb
+C:\Users\wiibr\Desktop\ping-pong\obj\Debug\net5.0\PingPongTable.dll
+C:\Users\wiibr\Desktop\ping-pong\obj\Debug\net5.0\ref\PingPongTable.dll
+C:\Users\wiibr\Desktop\ping-pong\obj\Debug\net5.0\PingPongTable.pdb
+C:\Users\wiibr\Desktop\ping-pong\obj\Debug\net5.0\PingPongTable.genruntimeconfig.cache
